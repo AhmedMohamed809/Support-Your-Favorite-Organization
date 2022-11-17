@@ -1,0 +1,37 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background-color: #f2f2f2;
+    border: 1px solid rgb(187, 153, 153);
+    border-radius: 5px;
+}
+.container {
+    background-color: #f2f2f2;
+    padding: 20px 400px 20px 400px;
+    margin: auto;
+}
+
+input[type=text] {
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+label {
+    margin-bottom: 10px;
+    display: block;
+}
+
+.btn {
+    background-color: rgb(238, 136, 10);
+    color: white;
+    padding: 20px 150px 20px 220px;
+    margin-left: 400px;
+    margin-right: 400px;
+    border: none;
+    border-radius: 3px;
+    font-size: 17px;
+}
