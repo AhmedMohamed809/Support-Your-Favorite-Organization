@@ -1,0 +1,31 @@
+body{
+    background-color:rgb(89, 89, 88);
+}
+#mainContainer{
+    margin-top: 200px;
+    border-radius: 40px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
+}
+#donateBt{
+    padding: 20px;
+    border-radius: 25px;
+    color: white;
+    background-color: rgb(190, 30, 30);
+}
+#container{
+    display: flex;
+
+            flex-direction: column;
+            align-items: center;
+background-color: rgb(238, 136, 10);
+align-content: center;
+border: 2px solid blue;
+border-radius: 40px;
+text-align: center;
+}
+#imges{
+    
+    height: 100px;
+}
